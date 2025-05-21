@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to QA (Quality)"
+  message: "Welcome to QA "
   contactDetails:
     name: "Sharooque"
     email: "sharooquethoufiq@gmail.com"
